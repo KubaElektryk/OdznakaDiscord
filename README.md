@@ -17,7 +17,7 @@ Active Developer
 
  
 3. Zainstaluj `requirements.txt` za pomocą komendy `pip install -r requirements.txt`
-   - jeśli używasz windowska musisz uruchomic cmd za pomocą administratora)
+   - jeśli używasz windowsa musisz uruchomic cmd za pomocą administratora)
 
 
 4. wejdz na Discord developer panel [discord developer panel](https://discord.com/developers/applications), Zaloguj się, i kliknij `New Application`. Wpisz nazwe, zaakceptuj i stwórz. Następnie wejdz w `Bot` i kliknij `Add Bot`.  Kliknij `Reset Token` i skopiuj token.
