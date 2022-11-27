@@ -11,6 +11,10 @@ Active Developer
 
 
 ## Instrukcja ✨
+Dla .exe 
+Wejdz w folder dajodznake znajdz plik index.exe i zacznik od podpunktu 4
+
+Dla PYTHONA
 1. Pobierz i zainstaluj [Python](https://www.python.org/downloads).
 2. Otwórz terminal.
    - Na windowsie, otwórz `command prompt` jako administrator. Wpisz `cd` i wklej scieżke folderu z botem. Kliknij Enter. 
