@@ -11,10 +11,7 @@ Active Developer
 
 
 ## Instrukcja ✨
-Dla .exe 
-Wejdz w folder dajodznake znajdz plik index.exe i zacznik od podpunktu 4
 
-Dla PYTHONA
 1. Pobierz i zainstaluj [Python](https://www.python.org/downloads).
 2. Otwórz terminal.
    - Na windowsie, otwórz `command prompt` jako administrator. Wpisz `cd` i wklej scieżke folderu z botem. Kliknij Enter. 
@@ -26,7 +23,7 @@ Dla PYTHONA
 
 4. wejdz na Discord developer panel [discord developer panel](https://discord.com/developers/applications), Zaloguj się, i kliknij `New Application`. Wpisz nazwe, zaakceptuj i stwórz. Następnie wejdz w `Bot` i kliknij `Add Bot`.  Kliknij `Reset Token` i skopiuj token.
 
-5. Włącz bota za pomoca komendy `python index.py`.
+5. Włącz bota za pomoca komendy `python index.py`. lub za pomocą pliku index.exe w folderze dajodznake.
 
 6. Wklej token swojego bota za pomocą prawego przycisku myszy. Niektórzy robią to za pomocą `CTRL + V` lub `CTRL + Shift + V`.
 
